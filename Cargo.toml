@@ -1,0 +1,13 @@
+[package]
+name = "ucd-parse"
+version = "0.1.0"
+authors = ["kazatsuyu <shirayama.kazatsuyu@gmail.com>"]
+edition = "2018"
+license-file = "LICENSE"
+description = "Unicode Character Database parser."
+readme = "README.md"
+homepage = "https://github.com/kazatsuyu/parse-ucd"
+documentation = "https://kazatsuyu.github.io/parse-ucd/perse_ucd/"
+repository = "https://github.com/kazatsuyu/parse_ucd"
+
+[dependencies]
