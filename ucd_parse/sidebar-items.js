@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["OpenOptions",""],["UCD","Parse txt files under the directory `public/UCD/` of Unicode Consortium."],["UCDLine","A non-empty line"],["UCDLineIter",""],["UCDLines","iterator of the row containing the column in the UCD text (ignore blank lines)"]]});
